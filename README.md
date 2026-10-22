@@ -39,7 +39,7 @@ The demo database is seeded with sample products and sales data for demonstratio
 
 | Admin inventory (add / edit / delete) | Cashier inventory (read-only) |
 | --- | --- |
-| <img width="1465" height="849" alt="admin_inventory" src="https://github.com/user-attachments/assets/58de1a81-fea7-4bde-b68e-bd2865ef9bba" />
+| <img width="1465" height="849" alt="admin_inventory" src="https://github.com/user-attachments/assets/58de1a81-fea7-4bde-b68e-bd2865ef9bba"/>
 | <img width="1470" height="852" alt="cashier_inventory" src="https://github.com/user-attachments/assets/d11ee10e-ad4e-459c-99d9-1fd4ad38331a" /> |
 
 | Low-stock alerts | Reports and analytics |
