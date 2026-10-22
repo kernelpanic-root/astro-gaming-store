@@ -40,11 +40,11 @@ The demo database is seeded with sample products and sales data for demonstratio
 | Admin inventory (add / edit / delete) | Cashier inventory (read-only) |
 | --- | --- |
 | <img width="1465" height="849" alt="admin_inventory" src="https://github.com/user-attachments/assets/58de1a81-fea7-4bde-b68e-bd2865ef9bba" />
-) | <img width="1470" height="852" alt="cashier_inventory" src="https://github.com/user-attachments/assets/d11ee10e-ad4e-459c-99d9-1fd4ad38331a" /> |
+| <img width="1470" height="852" alt="cashier_inventory" src="https://github.com/user-attachments/assets/d11ee10e-ad4e-459c-99d9-1fd4ad38331a" /> |
 
 | Low-stock alerts | Reports and analytics |
 | --- | --- |
-| (<img width="1456" height="849" alt="admin_alerts" src="https://github.com/user-attachments/assets/99b644b4-2c6f-4d3f-bfd1-3dc3151a8b36" /> | <img width="1464" height="850" alt="admin_reports analytics" src="https://github.com/user-attachments/assets/63421d0b-4e2d-4d25-a7cc-b0033a197973" /> |
+| <img width="1456" height="849" alt="admin_alerts" src="https://github.com/user-attachments/assets/99b644b4-2c6f-4d3f-bfd1-3dc3151a8b36" /> | <img width="1464" height="850" alt="admin_reports analytics" src="https://github.com/user-attachments/assets/63421d0b-4e2d-4d25-a7cc-b0033a197973" /> |
 
 ## Run Locally
 
